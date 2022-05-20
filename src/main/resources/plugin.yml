@@ -1,0 +1,5 @@
+name: Teleportation
+version: '${project.version}'
+main: io.github.tezvn.teleportation.Teleportation
+api-version: 1.16
+authors: [ TezVN ]
